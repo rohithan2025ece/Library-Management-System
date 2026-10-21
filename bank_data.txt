@@ -1,8 +1,0 @@
-101
-Rohitha|1300
-102
-Arun|2000
-103
-Neelavannan|12000
-201
-Rohitha|1900
